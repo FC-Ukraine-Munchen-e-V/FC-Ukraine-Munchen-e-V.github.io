@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on FC Ukraine München</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://fc-ukraine-munchen-e-v.github.io/tags/</link>
     <description>Recent content in Tags on FC Ukraine München</description>
     <generator>Hugo</generator>
     <language>ukr</language>
     <managingEditor>oleh@lamzin.com (Oleh Lamzin)</managingEditor>
     <webMaster>oleh@lamzin.com (Oleh Lamzin)</webMaster>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://fc-ukraine-munchen-e-v.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
