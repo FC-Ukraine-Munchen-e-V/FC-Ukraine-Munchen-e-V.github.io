@@ -53,6 +53,10 @@ publishDir = "docs"
     # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
     noClasses = false
 
+# Statics files like images and icons.
+[[module.mounts]]
+source = 'static'
+target = 'static'
 
 [params]
   # website title for Open Graph and Twitter Cards
@@ -73,7 +77,7 @@ publishDir = "docs"
     # Header title config
     [params.header.title]
       # URL of the LOGO
-      logo = ""
+      logo = "/images/logo-with-white-background.png"
       # title name
       name = "FC Ukraine München"
       # you can add extra information before the name (HTML format is supported), such as icons
