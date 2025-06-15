@@ -7,13 +7,17 @@
             <webMaster>oleh@lamzin.com (Oleh Lamzin)</webMaster><lastBuildDate>Sat, 14 Jun 2025 23:01:16 &#43;0200</lastBuildDate>
             <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>First Post!</title>
-    <link>http://localhost:1313/posts/first_post/</link>
+    <title>Ми – FC Ukraine München e.V.</title>
+    <link>http://localhost:1313/posts/we_are_fc_ukraine_munchen/</link>
     <pubDate>Sat, 14 Jun 2025 23:01:16 &#43;0200</pubDate>
     <author>Oleh Lamzin</author>
-    <guid>http://localhost:1313/posts/first_post/</guid>
-    <description><![CDATA[<h1 id="this-is-the-fist-post">This is the fist post!</h1>
-<p>bla bla bla</p>]]></description>
+    <guid>http://localhost:1313/posts/we_are_fc_ukraine_munchen/</guid>
+    <description><![CDATA[<h1 id="ми--fc-ukraine-münchen-ev">Ми – FC Ukraine München e.V.</h1>
+<p>Офіційно зареєстрований український футбольний клуб у Німеччині.</p>
+<p>Маємо дві команди: перша виступає в Баварському футбольному союзі (BFV),
+а друга є учасником Королівської баварської ліги (RBL).</p>
+<p>Граємо, об’єднуємо українців та підтримуємо Україну!</p>
+<p>Слідкуйте за нашими матчами, ініціативами та доєднуйтесь до команди!</p>]]></description>
 </item>
 </channel>
 </rss>
