@@ -77,7 +77,7 @@ target = 'static'
     # Header title config
     [params.header.title]
       # URL of the LOGO
-      logo = "/images/logo-with-white-background.png"
+      logo = "/images/logo-with-white-background-320px.png"
       # title name
       name = "FC Ukraine München"
       # you can add extra information before the name (HTML format is supported), such as icons
