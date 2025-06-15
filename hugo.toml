@@ -10,9 +10,9 @@ title = "FC Ukraine München"
 description = "FC Ukraine München official website"
 
 # language code ["en", "zh-CN", "fr", "pl", ...]
-languageCode = "en"
+languageCode = "ukr"
 # language name ["English", "简体中文", "Français", "Polski", ...]
-languageName = "English"
+languageName = "Ukrainian"
 
 publishDir = "docs"
 
