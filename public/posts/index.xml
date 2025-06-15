@@ -1,13 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>All Posts - My New Hugo Site</title>
+        <title>All Posts - FC Ukraine München</title>
         <link>http://localhost:1313/posts/</link>
-        <description>All Posts | My New Hugo Site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 14 Jun 2025 23:01:16 &#43;0200</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+        <description>All Posts | FC Ukraine München</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>oleh@lamzin.com (Oleh Lamzin)</managingEditor>
+            <webMaster>oleh@lamzin.com (Oleh Lamzin)</webMaster><lastBuildDate>Sat, 14 Jun 2025 23:01:16 &#43;0200</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
     <title>First_post</title>
     <link>http://localhost:1313/posts/first_post/</link>
     <pubDate>Sat, 14 Jun 2025 23:01:16 &#43;0200</pubDate>
-    <author>xxxx</author>
+    <author>Oleh Lamzin</author>
     <guid>http://localhost:1313/posts/first_post/</guid>
     <description><![CDATA[<h1 id="this-is-the-fist-post">This is the fist post!</h1>
 <p>bla bla bla</p>]]></description>
