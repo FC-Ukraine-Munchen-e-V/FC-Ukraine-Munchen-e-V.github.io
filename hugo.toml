@@ -31,19 +31,11 @@ publishDir = "docs"
     title = ""
   [[menu.main]]
     weight = 2
-    identifier = "tags"
+    identifier = "contacts"
     pre = ""
     post = ""
-    name = "Tags"
-    url = "/tags/"
-    title = ""
-  [[menu.main]]
-    weight = 3
-    identifier = "categories"
-    pre = ""
-    post = ""
-    name = "Categories"
-    url = "/categories/"
+    name = "Contacts"
+    url = "/contacts/"
     title = ""
 
 # Markup related configuration in Hugo
@@ -52,6 +44,10 @@ publishDir = "docs"
   [markup.highlight]
     # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
     noClasses = false
+
+  [markup.goldmark.renderer]
+    # whether to use HTML tags directly in the document
+    unsafe = true
 
 # Statics files like images and icons.
 [[module.mounts]]
