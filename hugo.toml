@@ -106,6 +106,18 @@ target = 'static'
     Email = "fc_ukrajina_muenchen@gmx.de"
     Phone = "+49 176 64703487"
 
+  # Social share links in post page
+  [params.page.share]
+      enable = true
+      Facebook = true
+      Whatsapp = true
+      # Mark the following explicitly as false because the default value is
+      # true.
+      Twitter = false
+      HackerNews = false
+      Line = false
+      Weibo = false
+
   # App icon config
   [params.app]
     # optional site title override for the app when added to an iOS home screen or Android launcher
