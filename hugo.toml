@@ -108,4 +108,4 @@ target = 'static'
   # App icon config
   [params.app]
     # optional site title override for the app when added to an iOS home screen or Android launcher
-    title = "FC Ukraine München"
+    title = "FCUM"
