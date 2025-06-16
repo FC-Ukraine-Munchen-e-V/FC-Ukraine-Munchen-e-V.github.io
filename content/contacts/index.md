@@ -8,7 +8,7 @@ title = ''
 
 ✉️ fc_ukrajina_muenchen@gmx.de
 
-📞 [+49 176 64703487]
+☎️ [+49 176 64703487]
 
 🏠︎ [Schönstraße 55, 81543 München]
 
