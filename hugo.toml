@@ -45,6 +45,10 @@ publishDir = "docs"
     # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
     noClasses = false
 
+  [markup.goldmark.renderer]
+    # whether to use HTML tags directly in the document
+    unsafe = true
+
 # Statics files like images and icons.
 [[module.mounts]]
 source = 'static'
