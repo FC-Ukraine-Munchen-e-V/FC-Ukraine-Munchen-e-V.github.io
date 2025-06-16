@@ -10,3 +10,12 @@ other = "новини"
 [allSome]
 other = "Усі {{ .Some }}"
 # === Taxonomy ===
+
+
+# === posts/single.html ===
+
+[readingTime]
+one = "Одна хвилина"
+other = "{{ .Count }} хвилин"
+
+# === posts/single.html ===
