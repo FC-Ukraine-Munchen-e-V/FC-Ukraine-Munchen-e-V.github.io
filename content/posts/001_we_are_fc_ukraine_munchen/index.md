@@ -4,6 +4,8 @@ draft = false
 title = 'Ми – FC Ukraine München e.V.'
 +++
 
+![Логотип команди FC Ukraine München e.V.](/images/logo-with-white-background-320px.png)
+
 Офіційно зареєстрований український футбольний клуб у Німеччині.
 
 Маємо дві команди: перша виступає в Баварському футбольному союзі (BFV),
