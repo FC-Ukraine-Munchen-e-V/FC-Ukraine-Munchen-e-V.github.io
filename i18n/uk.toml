@@ -1,0 +1,12 @@
+# Translations for Ukrainian
+# https://gohugo.io/content-management/multilingual/#translation-of-strings
+
+# === Post ===
+[posts]
+other = "новини"
+# === Post ===
+
+# === Taxonomy ===
+[allSome]
+other = "Усі {{ .Some }}"
+# === Taxonomy ===
