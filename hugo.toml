@@ -104,3 +104,8 @@ target = 'static'
       title = ""
       # subtitle shown in home page (HTML format is supported)
       subtitle = ""
+
+  # App icon config
+  [params.app]
+    # optional site title override for the app when added to an iOS home screen or Android launcher
+    title = "FC Ukraine München"
