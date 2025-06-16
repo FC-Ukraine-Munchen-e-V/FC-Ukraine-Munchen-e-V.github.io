@@ -68,8 +68,7 @@ target = 'static'
 
   # Author config
   [params.author]
-    name = "Oleh Lamzin"
-    link = "https://www.facebook.com/lamzin.oleh"
+    name = "FC Ukraine München"
 
   # Header config
   [params.header]
