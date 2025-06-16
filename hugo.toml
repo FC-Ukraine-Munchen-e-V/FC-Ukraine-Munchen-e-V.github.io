@@ -105,6 +105,14 @@ target = 'static'
       # subtitle shown in home page (HTML format is supported)
       subtitle = ""
 
+  # Social config in home page
+  [params.social]
+    Instagram = "fcukrainemuenchen"
+    Facebook = "FCUkrajinaMuenchen"
+    Youtubechannel = "UC-RXOiDAsi6MAQFdOSGM6sg"
+    Email = "fc_ukrajina_muenchen@gmx.de"
+    Phone = "+49 176 64703487"
+
   # App icon config
   [params.app]
     # optional site title override for the app when added to an iOS home screen or Android launcher
