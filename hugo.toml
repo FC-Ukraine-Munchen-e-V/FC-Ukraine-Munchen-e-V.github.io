@@ -136,7 +136,7 @@ target = 'static'
   [params.home]
     # Home page profile
     [params.home.profile]
-      enable = true
+      enable = false
       # title shown in home page (HTML format is supported)
       title = ""
       # subtitle shown in home page (HTML format is supported)
