@@ -30,7 +30,7 @@ title = 'Контакти'
 
 <div id="bfv1750287931471">Laden...</div>
 <script>
-BFVWidget.HTML5.zeigeVereinSpiele("02PU8A0AR0000000VS5489B8VS8PL525", "bfv1750287931471", { height: "600", width: "500", selectedTab: BFVWidget.HTML5.vereinTabs.spiele, colorResults: "undefined" , colorNav: "undefined" , colorClubName : "undefined" , backgroundNav: "undefined"});
+BFVWidget.HTML5.zeigeVereinSpiele("02PU8A0AR0000000VS5489B8VS8PL525", "bfv1750287931471", { height: "550", width: "300", selectedTab: BFVWidget.HTML5.vereinTabs.spiele, colorResults: "undefined" , colorNav: "undefined" , colorClubName : "undefined" , backgroundNav: "undefined"});
 </script>
 
 [+49 176 64703487]: tel:+4917664703487
