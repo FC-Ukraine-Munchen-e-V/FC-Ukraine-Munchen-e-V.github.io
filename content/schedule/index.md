@@ -6,11 +6,12 @@ title = 'Розклад ігор та тренувань'
 
 ### BFV
 
-Розклад ігор команди `FC Ukrajina München`,
+Розклад ігор команди *FC Ukrajina München*,
 яка виступає у Баварському футбольному союзі (BFV),
-можна знайти використовуючи віджет.
+за допомогою спеціального віджету.
 
-Використовуючи віджет, ви погоджуєтеся з [регуляцією захисту даних BFV].
+Зверніть увагу: використовуючи віджет, ви автоматично погоджуєтеся
+з [положеннями BFV щодо захисту даних].
 
 <br/>
 
@@ -24,7 +25,7 @@ BFVWidget.HTML5.zeigeVereinSpiele("02PU8A0AR0000000VS5489B8VS8PL525", "bfv175028
 
 ### RBL
 
-Розклад ігор команди `FC Ukrajina München AH`,
+Розклад ігор команди *FC Ukrajina München AH*,
 яка виступає у Королівській баварській лізі (RBL),
 можна знайти за [посиланням].
 
@@ -35,7 +36,7 @@ BFVWidget.HTML5.zeigeVereinSpiele("02PU8A0AR0000000VS5489B8VS8PL525", "bfv175028
 кожного вівторка та четверга з 19:40 по 22:00.
 
 
-[регуляцією захисту даних BFV]: https://www.bfv.de/allgemein/datenschutzrichtlinien
+[положеннями BFV щодо захисту даних]: https://www.bfv.de/allgemein/datenschutzrichtlinien
 
 [посиланням]: https://royalbavarianliga.de/teaminfo.php?teamid=o2189
 
