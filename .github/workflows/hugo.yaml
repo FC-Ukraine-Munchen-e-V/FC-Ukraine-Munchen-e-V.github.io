@@ -54,6 +54,8 @@ jobs:
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
       - name: Configure Git
         run: git config core.quotepath false
+      - name: Remove docs/
+        run: rm -rf ./docs
       - name: Build with Hugo
         run: |
           hugo \
@@ -63,7 +65,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./public
+          path: ./docs
 
   # Deployment job
   deploy:
