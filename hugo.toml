@@ -1,4 +1,4 @@
-baseURL = "http://fc-ukraine-munchen-e-v.github.io"
+baseURL = "http://fc-ukraine-muenchen.de"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
