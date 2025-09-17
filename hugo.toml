@@ -198,6 +198,14 @@ target = 'static'
     languageName = "Deutsch"
     [languages.de.menu]
       [[languages.de.menu.main]]
+        weight = 3
+        identifier = "sponsors"
+        pre = ""
+        post = ""
+        name = "Sponsoren"
+        url = "/sponsors/"
+        title = ""
+      [[languages.de.menu.main]]
         weight = 4
         identifier = "contacts"
         pre = ""
