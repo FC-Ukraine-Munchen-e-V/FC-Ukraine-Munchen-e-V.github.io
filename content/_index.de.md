@@ -19,10 +19,6 @@ Verfolgen Sie unsere Spiele, Initiativen und schließen Sie sich dem Team an!
 
 ![Mannschaftsfoto des FC Ukraine München e.V.](img.jpg)
 
----
-
-## AKTUELLE NEWS
-
 [Bayerischen Fußball-Verband (BFV)]: https://www.bfv.de/mannschaften/fc-ukraine-muenchen/02Q41B242K000000VS5489B1VTILVS2U
 [Royal Bavarian Liga (RBL)]: https://royalbavarianliga.de/teaminfo.php?teamid=o2189
 [spielte]: https://royalbavarianliga.de/teaminfo.php?teamid=m760
