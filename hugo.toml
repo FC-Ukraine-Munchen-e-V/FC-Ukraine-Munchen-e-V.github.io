@@ -184,3 +184,24 @@ target = 'static'
   [params.app]
     # optional site title override for the app when added to an iOS home screen or Android launcher
     title = "FCUM"
+
+# Multilingual
+[languages]
+  [languages.uk]
+    weight = 1
+    languageCode = "uk"
+    languageName = "Українська"
+
+  [languages.de]
+    weight = 2
+    languageCode = "de"
+    languageName = "Deutsch"
+    [languages.de.menu]
+      [[languages.de.menu.main]]
+        weight = 4
+        identifier = "contacts"
+        pre = ""
+        post = ""
+        name = "Kontakt"
+        url = "/contacts/"
+        title = ""
