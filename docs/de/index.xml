@@ -1,0 +1,32 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>FC Ukraine München</title>
+        <link>http://localhost:1313/de/</link>
+        <description>FC Ukraine München official website</description>
+        <generator>Hugo -- gohugo.io</generator><language>de</language><lastBuildDate>Tue, 16 Sep 2025 23:01:16 &#43;0200</lastBuildDate>
+            <atom:link href="http://localhost:1313/de/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Wir sind MEISTER in unserer Debütsaison 2024/25 in der C-Klasse!!!🏆</title>
+    <link>http://localhost:1313/de/posts/002_we_are_champions_c_klasse/</link>
+    <pubDate>Mon, 16 Jun 2025 10:00:00 &#43;0200</pubDate>
+    <author>FC Ukraine München</author>
+    <guid>http://localhost:1313/de/posts/002_we_are_champions_c_klasse/</guid>
+    <description><![CDATA[<p></p>
+<p>Es war eine schwierige und angespannte Saison bis zum letzten Spiel. Sowohl auf als auch neben dem Fußballplatz wurde viel Mühe investiert. Viele talentierte Spieler und treue Fans haben sich unserem Team angeschlossen. Mit jedem Spiel wurden wir stärker und strebten nach höheren Zielen. Insgesamt haben wir 50 Punkte geholt, 82 Tore geschossen und nur 23 ⚽️ Gegentore kassiert – das sind die besten Werte der Liga💪</p>]]></description>
+</item>
+<item>
+    <title>Wir sind der FC Ukraine München e.V.</title>
+    <link>http://localhost:1313/de/posts/001_we_are_fc_ukraine_muenchen/</link>
+    <pubDate>Sat, 14 Jun 2025 23:01:16 &#43;0200</pubDate>
+    <author>FC Ukraine München</author>
+    <guid>http://localhost:1313/de/posts/001_we_are_fc_ukraine_muenchen/</guid>
+    <description><![CDATA[<p></p>
+<p>Ein offiziell registrierter ukrainischer Fußballverein in Deutschland.</p>
+<p>Wir haben zwei Mannschaften: Die erste spielt im Bayerischen Fußball-Verband (BFV),
+und die zweite ist Teilnehmer der Royal Bavarian Liga (RBL).</p>
+<p>Wir spielen, vereinen Ukrainer und unterstützen die Ukraine!</p>
+<p>Verfolgen Sie unsere Spiele, Initiativen und schließen Sie sich dem Team an!</p>
+<p></p>]]></description>
+</item>
+</channel>
+</rss>
