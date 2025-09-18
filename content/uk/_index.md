@@ -1,10 +1,10 @@
-+++
-date = '2025-06-14T23:01:16+02:00'
-draft = false
-title = 'FC Ukraine München e.V.'
-+++
+---
+date: 2025-06-14T23:01:16+02:00
+draft: false
+title: FC Ukraine München e.V.
+---
 
-# FC Ukraine München e.V.
+# FC Ukraine München e.V. :)
 
 *FC Ukraine München e.V.* - офіційно зареєстрований український футбольний клуб
 у Німеччині, заснований у 2010 році.
