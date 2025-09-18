@@ -35,6 +35,26 @@ collections:
       - { label: "Image", name: "image", widget: "image", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
 
+  - name: "home_uk"
+    label: "Home Page (UK)"
+    files:
+      - name: "home_uk"
+        label: "Home Page (Ukrainian)"
+        file: "content/uk/_index.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "home_de"
+    label: "Home Page (DE)"
+    files:
+      - name: "home_de"
+        label: "Home Page (German)"
+        file: "content/de/_index.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+
   - name: "schedule_uk"
     label: "Schedule (UK)"
     folder: "content/uk/schedule"
