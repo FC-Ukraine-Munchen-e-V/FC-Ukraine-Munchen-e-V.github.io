@@ -4,7 +4,7 @@ draft: false
 title: FC Ukraine München e.V.
 ---
 
-# FC Ukraine München e.V. :)
+# FC Ukraine München e.V.
 
 *FC Ukraine München e.V.* - офіційно зареєстрований український футбольний клуб
 у Німеччині, заснований у 2010 році.
