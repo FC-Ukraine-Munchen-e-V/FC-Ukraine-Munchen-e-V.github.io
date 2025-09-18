@@ -1,0 +1,53 @@
+
+backend:
+  name: git-gateway
+  branch: main # or master, or develop
+
+media_folder: "static/images/uploads" # Media files will be stored in static/images/uploads
+public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
+
+i18n:
+  structure: multiple_folders
+  locales: [uk, de]
+  default_locale: uk
+
+collections:
+  - name: "posts"
+    label: "Posts"
+    label_singular: "Post"
+    folder: "content/posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
+    i18n: true
+    fields:
+      - { label: "Title", name: "title", widget: "string", i18n: true }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Image", name: "image", widget: "image", required: false, i18n: false }
+      - { label: "Body", name: "body", widget: "markdown", i18n: true }
+
+  - name: "schedule"
+    label: "Schedule"
+    folder: "content/schedule"
+    i18n: true
+    create: false
+    fields:
+      - { label: "Title", name: "title", widget: "string", i18n: true }
+      - { label: "Body", name: "body", widget: "markdown", i18n: true }
+
+  - name: "sponsors"
+    label: "Sponsors"
+    folder: "content/sponsors"
+    i18n: true
+    create: false
+    fields:
+      - { label: "Title", name: "title", widget: "string", i18n: true }
+      - { label: "Body", name: "body", widget: "markdown", i18n: true }
+
+  - name: "contacts"
+    label: "Contacts"
+    folder: "content/contacts"
+    i18n: true
+    create: false
+    fields:
+      - { label: "Title", name: "title", widget: "string", i18n: true }
+      - { label: "Body", name: "body", widget: "markdown", i18n: true }
