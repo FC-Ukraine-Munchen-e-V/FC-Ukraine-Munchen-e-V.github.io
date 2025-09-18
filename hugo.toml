@@ -198,6 +198,22 @@ target = 'static'
     languageName = "Deutsch"
     [languages.de.menu]
       [[languages.de.menu.main]]
+        weight = 1
+        identifier = "posts"
+        pre = ""
+        post = ""
+        name = "Nachrichten"
+        url = "/posts/"
+        title = ""
+      [[languages.de.menu.main]]
+        weight = 2
+        identifier = "schedule"
+        pre = ""
+        post = ""
+        name = "Spielplan"
+        url = "/schedule/"
+        title = ""
+      [[languages.de.menu.main]]
         weight = 3
         identifier = "sponsors"
         pre = ""
