@@ -15,9 +15,9 @@ title: FC Ukraine München e.V.
 
 Слідкуйте за нашими матчами, ініціативами та доєднуйтесь до команди!
 
-![Спільне фото команди FC Ukraine München e.V.](/images/uploads/2025-09-08-dsc00601.jpeg "Спільне фото, 8 вересня 2025")
+![Спільне фото команди FC Ukraine München e.V.](/images/uploads/2025-09-08-dsc00601.jpeg "8 вересня 2025")
 
-![Спільне фото команди FC Ukraine München e.V.](img.jpg "Спільне фото, червень 2025")
+![Спільне фото команди FC Ukraine München e.V.](img.jpg "Червень 2025")
 
 - - -
 
