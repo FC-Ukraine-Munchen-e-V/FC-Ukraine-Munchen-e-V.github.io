@@ -21,6 +21,9 @@ hugo server --disableFastRender
 Use the following URL to modify content online:
 https://fc-ukraine-muenchen.netlify.app/admin/
 
+Add more users to the admin console:
+https://app.netlify.com/projects/fc-ukraine-muenchen/configuration/identity#users
+
 ### Local development
 
 Modify `static/admin/config.yml`:
