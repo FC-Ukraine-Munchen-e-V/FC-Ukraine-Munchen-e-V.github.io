@@ -17,9 +17,9 @@ in der Royal Bavarian Liga (RBL).
 
 Verfolgen Sie unsere Spiele, Initiativen und schließen Sie sich dem Team an!
 
-![Mannschaftsfoto des FC Ukraine München e.V.](/images/uploads/2025-09-08-dsc00601.jpeg "Gemeinsames Foto, 8. September 2025")
+![Mannschaftsfoto des FC Ukraine München e.V.](/images/uploads/2025-09-08-dsc00601.jpeg "8. September 2025")
 
-![Mannschaftsfoto des FC Ukraine München e.V.](img.jpg)
+![Mannschaftsfoto des FC Ukraine München e.V.](img.jpg "Juni 2025")
 
 ---
 
