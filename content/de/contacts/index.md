@@ -24,6 +24,21 @@ Unsere Geschichten in den sozialen Medien:
 <!-- Some random video on our YouTube channel -->
 {{< youtube 3_QYYNfuUu8 >}}
 
+### Dokumente
+
+Hier finden Sie wichtige Dokumente des Vereins.
+
+Vereinsstatuten
+*   [Satzung 2024](/documents/satzung-2024.pdf)
+*   [Satzung 2025](/documents/satzung-2025.pdf)
+
+Beitrittserklärungen
+*   [Mitgliedsantrag](/documents/mitgliedsantrag.pdf)
+*   [BFV Antrag](/documents/bfv-antrag.pdf)
+
+Kündigungserklärung
+*   [Kündigung](/documents/kundigung.pdf)
+
 [+49 176 64703487]: tel:+4917664703487
 
 [Schönstraße 55, 81543 München]: https://maps.app.goo.gl/B9dGr3ztf74S6DGd7
