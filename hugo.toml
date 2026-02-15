@@ -85,7 +85,7 @@ target = 'static'
           <a href="tel:+49%20176%2064703487" title="Phone" rel="me" style="margin-right: 0.6em;">
             <i class="fas fa-phone fa-fw fa-2x" aria-hidden="true"></i>
           </a>
-          <a href="mailto:fc_ukrajina_muenchen@gmx.de" title="Email" rel="me">
+          <a href="mailto:vorstand@fc-ukraine-muenchen.de" title="Email" rel="me">
             <i class="far fa-envelope fa-fw fa-2x" aria-hidden="true"></i>
           </a>
       </div>
@@ -121,7 +121,7 @@ target = 'static'
     Instagram = "fcukrainemuenchen"
     Facebook = "FCUkrajinaMuenchen"
     Youtubechannel = "UC-RXOiDAsi6MAQFdOSGM6sg"
-    Email = "fc_ukrajina_muenchen@gmx.de"
+    Email = "vorstand@fc-ukraine-muenchen.de"
     Phone = "+49 176 64703487"
 
   # Social share links in post page

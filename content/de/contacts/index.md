@@ -6,7 +6,7 @@ title = 'Kontakt'
 
 ### Kontakt
 
-✉️ fc_ukrajina_muenchen@gmx.de
+✉️ vorstand@fc-ukraine-muenchen.de
 
 ☎️ [+49 176 64703487]
 
