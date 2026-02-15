@@ -89,6 +89,11 @@ target = 'static'
             <i class="far fa-envelope fa-fw fa-2x" aria-hidden="true"></i>
           </a>
       </div>
+      <div style="margin-top: 1em;">
+            <a href="/impressum" title="Impressum" rel="me">
+              Impressum
+            </a>
+      </div>
       <br/>
     """
     # whether to show Hugo and theme info
