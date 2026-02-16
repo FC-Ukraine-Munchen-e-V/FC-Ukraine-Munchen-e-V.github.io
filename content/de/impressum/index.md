@@ -26,9 +26,9 @@ Vereinsregister-Nr.: VR 2104041
 
 Vereinsnummer: BFV 31000009
 
-BLSV Nummer: [Nummer hier einfügen]
+BLSV Nummer: V15032
 
-Steuernummer: [Nummer hier einfügen]
+Steuernummer: 143/214/20002
 
 ### Für den Inhalt verantwortlich
 
