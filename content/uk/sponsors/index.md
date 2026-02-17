@@ -17,15 +17,21 @@ title = 'Спонсори'
 Ми цінуємо кожного з вас і сподіваємося на подальшу плідну співпрацю.
 Разом ми сильніші!
 
-##### [K&N Expert]
+##### K&N Expert
+
+[Відвідайте веб-сайт K&N Expert](https://knexperts.de/)
 
 ![K&N Expert logo](k_n_experts.png)
 
-##### [REWE Balagun]
+##### REWE Balagun
+
+[Відвідайте веб-сайт REWE Balagun](https://www.rewe.de/marktseite/muenchen/440983/rewe-markt-hermann-weinhauser-strasse-90/)
 
 ![REWE Balagun logo](rewe_balagun.png)
 
 ##### Kepler Solar
+
+[Відвідайте веб-сайт Kepler Solar](https://kepler-solar.de)
 
 ![Kepler Solar logo](kepler_solar.png)
 
@@ -37,6 +43,3 @@ title = 'Спонсори'
 гравців.
 
 Зв'яжіться з нами, щоб дізнатися більше!
-
-[K&N Expert]: https://knexperts.de/
-[REWE Balagun]: https://www.rewe.de/marktseite/muenchen/440983/rewe-markt-hermann-weinhauser-strasse-90/

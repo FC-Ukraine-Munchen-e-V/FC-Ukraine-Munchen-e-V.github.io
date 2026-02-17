@@ -20,15 +20,21 @@ Wir schätzen jeden Einzelnen von Ihnen und hoffen auf eine weiterhin fruchtbare
 Zusammenarbeit.
 Gemeinsam sind wir stärker!
 
-##### [K&N Expert]
+##### K&N Expert
+
+[Zur Webseite von K&N Expert](https://knexperts.de/)
 
 ![K&N Expert logo](k_n_experts.png)
 
-##### [REWE Balagun]
+##### REWE Balagun
+
+[Zur Webseite von REWE Balagun](https://www.rewe.de/marktseite/muenchen/440983/rewe-markt-hermann-weinhauser-strasse-90/)
 
 ![REWE Balagun logo](rewe_balagun.png)
 
 ##### Kepler Solar
+
+[Zur Webseite von Kepler Solar](https://kepler-solar.de)
 
 ![Kepler Solar logo](kepler_solar.png)
 
@@ -41,5 +47,3 @@ Spieler zu unterstützen.
 
 Kontaktieren Sie uns, um mehr zu erfahren!
 
-[K&N Expert]: https://knexperts.de/
-[REWE Balagun]: https://www.rewe.de/marktseite/muenchen/440983/rewe-markt-hermann-weinhauser-strasse-90/
