@@ -21,19 +21,20 @@ title = 'Спонсори'
 
 [Відвідайте веб-сайт K&N Expert](https://knexperts.de/)
 
-![K&N Expert logo](k_n_experts.png)
+![K&N Expert logo](k_n_experts.jpeg)
 
 ##### REWE Balagun
 
 [Відвідайте веб-сайт REWE Balagun](https://www.rewe.de/marktseite/muenchen/440983/rewe-markt-hermann-weinhauser-strasse-90/)
 
-![REWE Balagun logo](rewe_balagun.png)
+![REWE Balagun logo](rewe.jpeg)
 
 ##### Kepler Solar
 
 [Відвідайте веб-сайт Kepler Solar](https://kepler-solar.de)
 
-![Kepler Solar logo](kepler_solar.png)
+![Kepler Solar logo](kepler_solar.jpeg)
+
 
 ##### Станьте частиною нашої історії!
 
@@ -43,3 +44,5 @@ title = 'Спонсори'
 гравців.
 
 Зв'яжіться з нами, щоб дізнатися більше!
+
+![FC Ukraine München logo](fcum.jpeg)

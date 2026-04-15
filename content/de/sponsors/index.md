@@ -24,19 +24,19 @@ Gemeinsam sind wir stärker!
 
 [Zur Webseite von K&N Expert](https://knexperts.de/)
 
-![K&N Expert logo](k_n_experts.png)
+![K&N Expert logo](k_n_experts.jpeg)
 
 ##### REWE Balagun
 
 [Zur Webseite von REWE Balagun](https://www.rewe.de/marktseite/muenchen/440983/rewe-markt-hermann-weinhauser-strasse-90/)
 
-![REWE Balagun logo](rewe_balagun.png)
+![REWE Balagun logo](rewe.jpeg)
 
 ##### Kepler Solar
 
 [Zur Webseite von Kepler Solar](https://kepler-solar.de)
 
-![Kepler Solar logo](kepler_solar.png)
+![Kepler Solar logo](kepler_solar.jpeg)
 
 ##### Werden Sie Teil unserer Geschichte!
 
@@ -46,4 +46,7 @@ Dies ist eine großartige Gelegenheit, Ihre Marke zu fördern und talentierte
 Spieler zu unterstützen.
 
 Kontaktieren Sie uns, um mehr zu erfahren!
+
+![FC Ukraine München logo](fcum.jpeg)
+
 
