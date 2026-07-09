@@ -38,7 +38,7 @@ Die Saison 2024/25 war historisch für den Verein: Der FC Ukraine München gewan
 
 Zudem machte der Verein in den offiziellen BFV-Wettbewerben schnell von sich reden. In den deutschen Fußballmedien wurde berichtet, dass die Mannschaft direkt nach dem Start im offiziellen Spielbetrieb den Aufstieg in die B-Klasse geschafft hat.
 
-### 2024: RBL AZ-Cup-Finale
+### 2023: RBL AZ-Cup-Finale
 
 Ein weiteres wichtiges Kapitel in der Geschichte des FC Ukraine München war das Erreichen des Finales des AZ-Cups (Abendzeitung Cup) im Rahmen der Royal Bavarian Liga. Für das ukrainische Team war dies ein Meilenstein, da die Finalteilnahme bei einem der bekanntesten Münchner Amateurturniere zeigte, dass der Verein selbst mit erfahrenen bayerischen Mannschaften auf hohem Niveau konkurrieren kann. Das Spiel zog das Interesse der lokalen Sportmedien auf sich und war ein weiterer Beweis dafür, dass sich der FC Ukraine München zunehmend als feste Größe im Münchner Amateurfußball etabliert.
 
