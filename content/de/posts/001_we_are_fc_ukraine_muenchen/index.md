@@ -62,6 +62,9 @@ Das Team organisiert regelmäßig:
 
 Die Trainings finden mehrmals pro Woche im Münchner Westen statt. Der Verein lädt laufend neue Mitglieder ein – von jungen Fußballern bis hin zu Spielern der Kategorie „Alte Herren“ (Ü30).
 
+![Feier zum 15-jährigen Vereinsjubiläum im Jahr 2025](img-2025-15-years-anniversary-1.jpg "Feier zum 15-jährigen Vereinsjubiläum im Jahr 2025")
+![Feier zum 15-jährigen Vereinsjubiläum im Jahr 2025](img-2025-15-years-anniversary-2.jpg "Feier zum 15-jährigen Vereinsjubiläum im Jahr 2025")
+
 ## Bedeutung für Ukrainer in Deutschland
 
 Der FC Ukraine München ist zu einem Beispiel dafür geworden, wie Sport den Menschen in Zeiten von Krieg und Emigration Halt geben kann. Für viele Ukrainer wurde der Club zu einem „zweiten Zuhause“, an dem man Freunde findet, Unterstützung erfährt und die Verbindung zur Heimat spürt, selbst weit weg von der Ukraine. Deutsche Sportpublikationen bezeichneten die Mannschaft als einen Ort, an dem „niemand alleine bleibt“.
