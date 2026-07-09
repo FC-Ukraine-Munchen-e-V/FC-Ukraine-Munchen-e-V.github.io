@@ -28,6 +28,9 @@ Heute hat der Verein drei Mannschaften:
 
 Die Saison 2025/26 war für unsere Mannschaften ebenfalls herausragend, da wir mit beiden Teams Aufstiegsplätze belegten und in die A-Klasse beziehungsweise B-Klasse aufgestiegen sind.
 
+![Aufstieg 1](img-2025-26-promotion-1.jpg)
+![Aufstieg 2](img-2025-26-promotion-2.jpg)
+
 ### 2025: Erdinger Meister-Cup
 
 Ein besonderer Meilenstein für den Verein war die Teilnahme am renommierten Erdinger Meister-Cup – einem der größten Amateurfußballturniere Bayerns, das in Kooperation mit dem Bayerischen Fußball-Verband (BFV) und der Erdinger Brauerei veranstaltet wird. Da sich nur Meister und die erfolgreichsten Amateurteams der Region für diesen Pokal qualifizieren, war die Teilnahme eine bedeutende Anerkennung der sportlichen Entwicklung unseres Teams. Für den FC Ukraine München bot sich damit die einmalige Gelegenheit, die ukrainische Gemeinschaft in München auf einer großen Fußballbühne zu repräsentieren und sich mit den stärksten Mannschaften Bayerns zu messen.
