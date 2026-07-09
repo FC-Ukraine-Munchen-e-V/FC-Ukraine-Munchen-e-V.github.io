@@ -32,15 +32,22 @@ Die Saison 2025/26 war für unsere Mannschaften ebenfalls herausragend, da wir m
 
 Ein besonderer Meilenstein für den Verein war die Teilnahme am renommierten Erdinger Meister-Cup – einem der größten Amateurfußballturniere Bayerns, das in Kooperation mit dem Bayerischen Fußball-Verband (BFV) und der Erdinger Brauerei veranstaltet wird. Da sich nur Meister und die erfolgreichsten Amateurteams der Region für diesen Pokal qualifizieren, war die Teilnahme eine bedeutende Anerkennung der sportlichen Entwicklung unseres Teams. Für den FC Ukraine München bot sich damit die einmalige Gelegenheit, die ukrainische Gemeinschaft in München auf einer großen Fußballbühne zu repräsentieren und sich mit den stärksten Mannschaften Bayerns zu messen.
 
+![Erdinger Meister-Cup 2025](img-2025-Erdinger-Meister-Cup.jpeg)
+
 ### 2024/25: Debüt & Meisterschaft
 
 Die Saison 2024/25 war historisch für den Verein: Der FC Ukraine München gewann seine Debütsaison in der C-Klasse und sicherte sich die Meisterschaft. Das Team holte 50 Punkte, erzielte 82 Tore und kassierte nur 23 Gegentreffer – das waren die besten Werte der Liga.
 
 Zudem machte der Verein in den offiziellen BFV-Wettbewerben schnell von sich reden. In den deutschen Fußballmedien wurde berichtet, dass die Mannschaft direkt nach dem Start im offiziellen Spielbetrieb den Aufstieg in die B-Klasse geschafft hat.
 
+![C-Klasse-Meisterschaft 1](img-2024-25-C-Klasse-1.jpg)
+![C-Klasse-Meisterschaft 2](img-2024-25-C-Klasse-2.jpg)
+
 ### 2023: RBL AZ-Cup-Finale
 
 Ein weiteres wichtiges Kapitel in der Geschichte des FC Ukraine München war das Erreichen des Finales des AZ-Cups (Abendzeitung Cup) im Rahmen der Royal Bavarian Liga. Für das ukrainische Team war dies ein Meilenstein, da die Finalteilnahme bei einem der bekanntesten Münchner Amateurturniere zeigte, dass der Verein selbst mit erfahrenen bayerischen Mannschaften auf hohem Niveau konkurrieren kann. Das Spiel zog das Interesse der lokalen Sportmedien auf sich und war ein weiterer Beweis dafür, dass sich der FC Ukraine München zunehmend als feste Größe im Münchner Amateurfußball etabliert.
+
+![RBL AZ-Cup-Finale 2023](img-2023-AZ-Cup.jpg)
 
 ## Nicht nur Fußball
 
