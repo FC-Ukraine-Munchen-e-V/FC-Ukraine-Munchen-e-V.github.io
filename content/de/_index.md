@@ -6,14 +6,9 @@ title: FC Ukraine München e.V.
 
 # FC Ukraine München e.V.
 
-*FC Ukraine München e.V.* ist ein offiziell registrierter ukrainischer
-Fußballverein in Deutschland, gegründet im Jahr 2010. Wir spielen, vereinen
-Ukrainer und unterstützen die Ukraine!
+*FC Ukraine München e.V.* – ist ein offiziell registrierter ukrainischer Fußballverein in München, der 2010 gegründet wurde. Heute hat der Verein drei Mannschaften: [die erste](https://www.bfv.de/mannschaften/fc-ukraine-muenchen/02Q41B242K000000VS5489B1VTILVS2U), [die zweite](https://www.bfv.de/mannschaften/fc-ukraine-muenchen/02TCEPR1QC000000VS5489BSVV9JRPRB) sowie [die „Alte Herren“ (Ü30)](https://royalbavarianliga.de/teaminfo.php?teamid=o2189), die erfolgreich in den Ligen des Bayerischen Fußball-Verbandes (BFV) und der Royal Bavarian Liga (RBL) spielen und dort Meisterschaften und Aufstiege feiern. Neben dem Sport ist der Verein ein wichtiges Zentrum für die ukrainische Gemeinschaft in Deutschland: Er unterstützt Neuankömmlinge, organisiert Wohltätigkeitsinitiativen und verbindet Menschen durch den Fußball.
 
-Wir haben zwei Mannschaften: Die erste spielt im
-[Bayerischen Fußball-Verband (BFV)], und die zweite ist Mitglied der
-[Royal Bavarian Liga (RBL)]. Bis 2025 [spielte] die erste Mannschaft ebenfalls
-in der Royal Bavarian Liga (RBL).
+Mehr über die Vereinsgeschichte, unsere Mannschaften, sportliche Erfolge und Initiativen erfahren Sie in unserem ersten Beitrag: [Wir sind der FC Ukraine München e.V.](/de/posts/001_we_are_fc_ukraine_muenchen/).
 
 Verfolgen Sie unsere Spiele, Initiativen und schließen Sie sich dem Team an!
 
@@ -24,7 +19,3 @@ Verfolgen Sie unsere Spiele, Initiativen und schließen Sie sich dem Team an!
 ---
 
 ## AKTUELLE NACHRICHTEN
-
-[Bayerischen Fußball-Verband (BFV)]: https://www.bfv.de/mannschaften/fc-ukraine-muenchen/02Q41B242K000000VS5489B1VTILVS2U
-[Royal Bavarian Liga (RBL)]: https://royalbavarianliga.de/teaminfo.php?teamid=o2189
-[spielte]: https://royalbavarianliga.de/teaminfo.php?teamid=m760
