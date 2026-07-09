@@ -42,12 +42,14 @@ Zudem machte der Verein in den offiziellen BFV-Wettbewerben schnell von sich red
 
 ![C-Klasse-Meisterschaft 1](img-2024-25-C-Klasse-1.jpg)
 ![C-Klasse-Meisterschaft 2](img-2024-25-C-Klasse-2.jpg)
+![C-Klasse-Meisterschaft 3](img-2024-25-C-Klasse-3.jpg)
 
 ### 2023: RBL AZ-Cup-Finale
 
 Ein weiteres wichtiges Kapitel in der Geschichte des FC Ukraine München war das Erreichen des Finales des AZ-Cups (Abendzeitung Cup) im Rahmen der Royal Bavarian Liga. Für das ukrainische Team war dies ein Meilenstein, da die Finalteilnahme bei einem der bekanntesten Münchner Amateurturniere zeigte, dass der Verein selbst mit erfahrenen bayerischen Mannschaften auf hohem Niveau konkurrieren kann. Das Spiel zog das Interesse der lokalen Sportmedien auf sich und war ein weiterer Beweis dafür, dass sich der FC Ukraine München zunehmend als feste Größe im Münchner Amateurfußball etabliert.
 
-![RBL AZ-Cup-Finale 2023](img-2023-AZ-Cup.jpg)
+![RBL AZ-Cup-Finale 2023 - 1](img-2023-AZ-Cup-1.jpg)
+![RBL AZ-Cup-Finale 2023 - 2](img-2023-AZ-Cup-2.jpg)
 
 ## Nicht nur Fußball
 
@@ -65,6 +67,9 @@ Die Trainings finden mehrmals pro Woche im Münchner Westen statt. Der Verein l�
 ![Feier zum 15-jährigen Vereinsjubiläum im Jahr 2025](img-2025-15-years-anniversary-1.jpg "Feier zum 15-jährigen Vereinsjubiläum im Jahr 2025")
 ![Feier zum 15-jährigen Vereinsjubiläum im Jahr 2025](img-2025-15-years-anniversary-2.jpg "Feier zum 15-jährigen Vereinsjubiläum im Jahr 2025")
 
+![Gemeinsames Grillen, Juni 2025](img-2025-grill-1.jpg "Gemeinsames Grillen, Juni 2025")
+![Gemeinsames Grillen, Juni 2025](img-2025-grill-2.jpg "Gemeinsames Grillen, Juni 2025")
+
 ## Bedeutung für Ukrainer in Deutschland
 
 Der FC Ukraine München ist zu einem Beispiel dafür geworden, wie Sport den Menschen in Zeiten von Krieg und Emigration Halt geben kann. Für viele Ukrainer wurde der Club zu einem „zweiten Zuhause“, an dem man Freunde findet, Unterstützung erfährt und die Verbindung zur Heimat spürt, selbst weit weg von der Ukraine. Deutsche Sportpublikationen bezeichneten die Mannschaft als einen Ort, an dem „niemand alleine bleibt“.
@@ -73,4 +78,4 @@ Der FC Ukraine München e.V. lädt Spieler, Sponsoren und alle Fußballbegeister
 
 Werden Sie Teil unserer Familie und unserer Mannschaft!
 
-![Mannschaftsfoto des FC Ukraine München e.V.](img.jpg)
+![Mannschaftsfoto des FC Ukraine München e.V.](img-team-photo.jpeg)
