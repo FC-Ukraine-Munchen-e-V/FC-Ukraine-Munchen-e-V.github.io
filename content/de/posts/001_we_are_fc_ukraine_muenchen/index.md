@@ -81,4 +81,4 @@ Der FC Ukraine München e.V. lädt Spieler, Sponsoren und alle Fußballbegeister
 
 Werden Sie Teil unserer Familie und unserer Mannschaft!
 
-![Mannschaftsfoto des FC Ukraine München e.V.](img-team-photo.jpeg)
+![Mannschaftsfoto des FC Ukraine München e.V.](img-team-photo.jpeg "24. August 2025")
