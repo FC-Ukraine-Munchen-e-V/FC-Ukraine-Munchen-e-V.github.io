@@ -38,6 +38,15 @@ Gemeinsam sind wir stärker!
 
 ![Kepler Solar logo](kepler_solar.jpeg)
 
+##### Integration durch Sport
+
+Das Bundesprogramm „Integration durch Sport“ (IdS) des Deutschen Olympischen Sportbundes (DOSB) unterstützt Sportvereine, die sich aktiv für die Integration von Menschen mit Migrationshintergrund und Geflüchteten einsetzen. Das Programm wird durch das Bundesministerium des Innern und für Heimat (BMI) sowie das Bundesamt für Migration und Flüchtlinge (BAMF) gefördert. Es stärkt den gesellschaftlichen Zusammenhalt und die interkulturelle Öffnung im Sport.
+
+[Zur Webseite von Integration durch Sport](https://integration.dosb.de)
+
+![Integration durch Sport logo](integration_durch_sport.png)
+
+
 ##### Werden Sie Teil unserer Geschichte!
 
 Der Fußballverein "FC Ukraine München" lädt neue Sponsoren ein!
