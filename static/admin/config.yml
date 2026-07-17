@@ -71,17 +71,17 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
 
-  - name: "sponsors_uk"
-    label: "Sponsors (UK)"
-    folder: "content/uk/sponsors"
+  - name: "partners_uk"
+    label: "Partners (UK)"
+    folder: "content/uk/partners"
     create: false
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
 
-  - name: "sponsors_de"
-    label: "Sponsors (DE)"
-    folder: "content/de/sponsors"
+  - name: "partners_de"
+    label: "Partners (DE)"
+    folder: "content/de/partners"
     create: false
     fields:
       - { label: "Title", name: "title", widget: "string" }

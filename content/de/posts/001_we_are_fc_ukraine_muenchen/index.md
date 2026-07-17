@@ -77,7 +77,7 @@ Die Trainings finden mehrmals pro Woche im Münchner Westen statt. Der Verein l�
 
 Der FC Ukraine München ist zu einem Beispiel dafür geworden, wie Sport den Menschen in Zeiten von Krieg und Emigration Halt geben kann. Für viele Ukrainer wurde der Club zu einem „zweiten Zuhause“, an dem man Freunde findet, Unterstützung erfährt und die Verbindung zur Heimat spürt, selbst weit weg von der Ukraine. Deutsche Sportpublikationen bezeichneten die Mannschaft als einen Ort, an dem „niemand alleine bleibt“.
 
-Der FC Ukraine München e.V. lädt Spieler, Sponsoren und alle Fußballbegeisterten ein, sich anzuschließen.
+Der FC Ukraine München e.V. lädt Spieler, Partner und alle Fußballbegeisterten ein, sich anzuschließen.
 
 Werden Sie Teil unserer Familie und unserer Mannschaft!
 

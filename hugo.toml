@@ -176,11 +176,11 @@ defaultContentLanguage = "uk"
         title = ""
       [[languages.uk.menu.main]]
         weight = 3
-        identifier = "sponsors"
+        identifier = "partners"
         pre = ""
         post = ""
-        name = "Спонсори"
-        url = "/sponsors/"
+        name = "Партнери"
+        url = "/partners/"
         title = ""
       [[languages.uk.menu.main]]
         weight = 4
@@ -217,11 +217,11 @@ defaultContentLanguage = "uk"
         title = ""
       [[languages.de.menu.main]]
         weight = 3
-        identifier = "sponsors"
+        identifier = "partners"
         pre = ""
         post = ""
-        name = "Sponsoren"
-        url = "/sponsors/"
+        name = "Partner"
+        url = "/partners/"
         title = ""
       [[languages.de.menu.main]]
         weight = 4
